@@ -53,4 +53,4 @@ docker compose up --build
 - Prometheus scraping model
 - Grafana visualization
 - Docker networking
-- CI/CD ready structure
+- CI/CD ready structure (in progress)
